@@ -1,0 +1,933 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{Jonah}{online}{}
+    \name{author}{1}{}{%
+      {{hash=AA}{%
+         family={Author},
+         familyi={A\bibinitperiod},
+         given={Anonymous},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AA1}
+    \strng{fullhash}{AA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Aut23}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{Measuring-the-Unmeasurable Repositary}
+    \verb{url}
+    \verb https://shorturl.at/mNTUW
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{AIC}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BH}{%
+         family={Bozdogan},
+         familyi={B\bibinitperiod},
+         given={Hamparsum},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{BH1}
+    \strng{fullhash}{BH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Boz87}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{3}
+    \field{pages}{345\bibrangedash 370}
+    \field{title}{Model selection and Akaike's information criterion (AIC): The
+  general theory and its analytical extensions}
+    \field{volume}{52}
+    \field{journaltitle}{Psychometrika}
+    \field{year}{1987}
+  \endentry
+
+  \entry{Connor}{article}{}
+    \name{author}{2}{}{%
+      {{hash=CRJ}{%
+         family={Connor},
+         familyi={C\bibinitperiod},
+         given={Robert\bibnamedelima J},
+         giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=MJE}{%
+         family={Mosimann},
+         familyi={M\bibinitperiod},
+         given={James\bibnamedelima E},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{CRJMJE1}
+    \strng{fullhash}{CRJMJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CM69}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{325}
+    \field{pages}{194\bibrangedash 206}
+    \field{title}{Concepts of independence for proportions with a
+  generalization of the Dirichlet distribution}
+    \field{volume}{64}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{1969}
+  \endentry
+
+  \entry{Chordal}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CJ}{%
+         family={Castellví},
+         familyi={C\bibinitperiod},
+         given={Jordi},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Noy},
+         familyi={N\bibinitperiod},
+         given={Marc},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RC}{%
+         family={Requilé},
+         familyi={R\bibinitperiod},
+         given={Clément},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Asymptotic enumeration, Chordal planar graphs, Subcritical graph
+  class}
+    \strng{namehash}{CJNMRC1}
+    \strng{fullhash}{CJNMRC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CNR23}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    We determine the number of labelled chordal planar graphs with n vertices,
+  which is asymptotically g⋅n−5/2γnn! for a constant g>0 and
+  γ≈11.89235. We also determine the number of rooted simple chordal planar
+  maps with n edges, which is asymptotically s⋅n−3/2δn, where s>0,
+  δ=1/σ≈6.40375, and σ is an algebraic number of degree 12. The proofs are
+  based on combinatorial decompositions and singularity analysis. Chordal
+  planar graphs (or maps) are a natural example of a subcritical class of
+  graphs in which the class of 3-connected graphs is relatively rich. The
+  3-connected members are precisely chordal triangulations, those obtained
+  starting from K4 by repeatedly adding vertices adjacent to an existing
+  triangular face.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.disc.2022.113163
+    \endverb
+    \field{issn}{0012-365X}
+    \field{number}{1}
+    \field{pages}{113163}
+    \field{title}{Enumeration of chordal planar graphs and maps}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0012365X22003697
+    \endverb
+    \field{volume}{346}
+    \field{journaltitle}{Discrete Mathematics}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Cormack}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CR}{%
+         family={Cormack},
+         familyi={C\bibinitperiod},
+         given={RM},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{CR1}
+    \strng{fullhash}{CR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Cor92}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{567\bibrangedash 576}
+    \field{title}{Interval estimation for mark-recapture studies of closed
+  populations}
+    \field{journaltitle}{Biometrics}
+    \field{year}{1992}
+  \endentry
+
+  \entry{Chan}{article}{}
+    \name{author}{3}{}{%
+      {{hash=CL}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Lax},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SBW}{%
+         family={Silverman},
+         familyi={S\bibinitperiod},
+         given={Bernard\bibnamedelima W},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Vincent},
+         familyi={V\bibinitperiod},
+         given={Kyle},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{CLSBWVK1}
+    \strng{fullhash}{CLSBWVK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{CSV21}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{535}
+    \field{pages}{1297\bibrangedash 1306}
+    \field{title}{Multiple systems estimation for sparse capture data:
+  Inferential challenges when there are nonoverlapping lists}
+    \field{volume}{116}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{2021}
+  \endentry
+
+  \entry{BinomialMixingGood}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DDB}{%
+         family={Dunson},
+         familyi={D\bibinitperiod},
+         given={David\bibnamedelima B.},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=XC}{%
+         family={Xing},
+         familyi={X\bibinitperiod},
+         given={Chuanhua},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[American Statistical Association, Taylor & Francis, Ltd.]}%
+    }
+    \strng{namehash}{DDBXC1}
+    \strng{fullhash}{DDBXC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{DX09}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Modeling of multivariate unordered categorical (nominal) data is a
+  challenging problem, particularly in high dimensions and cases in which one
+  wishes to avoid strong assumptions about the dependence structure. Commonly
+  used approaches rely on the incorporation of latent Gaussian random variables
+  or parametric latent class models. The goal of this article is to develop a
+  nonparametric Bayes approach, which defines a prior with full support on the
+  space of distributions for multiple unordered categorical variables. This
+  support condition ensures that we are not restricting the dependence
+  structure a priori. We show this can be accomplished through a Dirichlet
+  process mixture of product multinomial distributions, which is also a
+  convenient form for posterior computation. Methods for nonparametric testing
+  of violations of independence are proposed, and the methods are applied to
+  model positional dependence within transcription factor binding motifs.%
+    }
+    \field{issn}{01621459}
+    \field{number}{487}
+    \field{pages}{1042\bibrangedash 1051}
+    \field{title}{Nonparametric Bayes Modeling of Multivariate Categorical
+  Data}
+    \verb{url}
+    \verb http://www.jstor.org/stable/40592273
+    \endverb
+    \field{volume}{104}
+    \field{journaltitle}{Journal of the American Statistical Association}
+    \field{year}{2009}
+    \field{urlday}{20}
+    \field{urlmonth}{02}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{Gib}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GAE}{%
+         family={Gelfand},
+         familyi={G\bibinitperiod},
+         given={Alan\bibnamedelima E},
+         giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor \& Francis}%
+    }
+    \strng{namehash}{GAE1}
+    \strng{fullhash}{GAE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gel00}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{452}
+    \field{pages}{1300\bibrangedash 1304}
+    \field{title}{Gibbs sampling}
+    \field{volume}{95}
+    \field{journaltitle}{Journal of the American statistical Association}
+    \field{year}{2000}
+  \endentry
+
+  \entry{Sites}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=GO}{%
+         family={Goga},
+         familyi={G\bibinitperiod},
+         given={Oana},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lei},
+         familyi={L\bibinitperiod},
+         given={Howard},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=PSHK}{%
+         family={Parthasarathi},
+         familyi={P\bibinitperiod},
+         given={Sree Hari\bibnamedelima Krishnan},
+         giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  K\bibinitperiod},
+      }}%
+      {{hash=FG}{%
+         family={Friedland},
+         familyi={F\bibinitperiod},
+         given={Gerald},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sommer},
+         familyi={S\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TR}{%
+         family={Teixeira},
+         familyi={T\bibinitperiod},
+         given={Renata},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GO+1}
+    \strng{fullhash}{GOLHPSHKFGSRTR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gog+13}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{booktitle}{Proceedings of the 22nd international conference on World
+  Wide Web}
+    \field{pages}{447\bibrangedash 458}
+    \field{title}{Exploiting innocuous activity for correlating users across
+  sites}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Graph}{online}{}
+    \name{author}{1}{}{%
+      {{hash=IOF}{%
+         family={Inc.},
+         familyi={I\bibinitperiod},
+         given={OEIS\bibnamedelima Foundation},
+         giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IOF1}
+    \strng{fullhash}{IOF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Inc23}
+    \field{sortinit}{I}
+    \field{sortinithash}{I}
+    \field{title}{Number of chordal labeled graphs (connected or not) with n
+  nodes}
+    \verb{url}
+    \verb https://oeis.org/A058862
+    \endverb
+    \field{year}{2023}
+  \endentry
+
+  \entry{Shan}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LJ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ1}
+    \strng{fullhash}{LJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Lin91}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1109/18.61115
+    \endverb
+    \field{number}{1}
+    \field{pages}{145\bibrangedash 151}
+    \field{title}{Divergence measures based on the Shannon entropy}
+    \field{volume}{37}
+    \field{journaltitle}{IEEE Transactions on Information Theory}
+    \field{year}{1991}
+  \endentry
+
+  \entry{gram}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Xinying},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Jingtian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LCY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Chin-Yew},
+         giveni={C\bibinithyphendelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJSXJJLCY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Liu+12}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1145/2396761.2398647
+    \endverb
+    \field{pages}{2387\bibrangedash 2390}
+    \field{title}{An unsupervised method for author extraction from web pages
+  containing user-generated content}
+    \field{month}{10}
+    \field{year}{2012}
+  \endentry
+
+  \entry{27}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=LJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Jing},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZF}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Fan},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=SX}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Xinying},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SYI}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Young-In},
+         giveni={Y\bibinithyphendelim I\bibinitperiod},
+      }}%
+      {{hash=LCY}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Chin-Yew},
+         giveni={C\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=HHW}{%
+         family={Hon},
+         familyi={H\bibinitperiod},
+         given={Hsiao-Wuen},
+         giveni={H\bibinithyphendelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJ+1}
+    \strng{fullhash}{LJZFSXSYILCYHHW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Liu+13}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \verb{doi}
+    \verb 10.1145/2433396.2433457
+    \endverb
+    \field{pages}{495\bibrangedash 504}
+    \field{title}{What's in a name? An unsupervised approach to link users
+  across communities}
+    \field{month}{02}
+    \field{year}{2013}
+  \endentry
+
+  \entry{madiman2008entropy}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Madiman},
+         familyi={M\bibinitperiod},
+         given={Mokshay},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Mad08}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{2008 IEEE Information Theory Workshop}
+    \field{pages}{303\bibrangedash 307}
+    \field{title}{On the entropy of sums}
+    \field{year}{2008}
+  \endentry
+
+  \entry{BayesianMixing}{article}{}
+    \name{author}{1}{}{%
+      {{hash=MVD}{%
+         family={Manrique-Vallier},
+         familyi={M\bibinithyphendelim V\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{MVD1}
+    \strng{fullhash}{MVD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MV16}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{number}{4}
+    \field{pages}{1246\bibrangedash 1254}
+    \field{title}{Bayesian population size estimation using Dirichlet process
+  mixtures}
+    \field{volume}{72}
+    \field{journaltitle}{Biometrics}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Madigan}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MD}{%
+         family={Madigan},
+         familyi={M\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YJC}{%
+         family={York},
+         familyi={Y\bibinitperiod},
+         given={Jeremy\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {[Oxford University Press, Biometrika Trust]}%
+    }
+    \strng{namehash}{MDYJC1}
+    \strng{fullhash}{MDYJC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{MY97}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{abstract}{%
+    A Bayesian methodology for estimating the size of a closed population from
+  multiple incomplete administrative lists is proposed. The approach allows for
+  a variety of dependence structures between the lists, can make use of
+  covariates, and explicitly accounts for model uncertainty. Interval estimates
+  form this approach are compared to frequentist and previously published
+  Bayesian approaches. Several examples are considered.%
+    }
+    \field{issn}{00063444}
+    \field{number}{1}
+    \field{pages}{19\bibrangedash 31}
+    \field{title}{Bayesian Methods for Estimation of the Size of a Closed
+  Population}
+    \verb{url}
+    \verb http://www.jstor.org/stable/2337552
+    \endverb
+    \field{volume}{84}
+    \field{journaltitle}{Biometrika}
+    \field{year}{1997}
+    \field{urlday}{06}
+    \field{urlmonth}{04}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{corpus}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=RRT}{%
+         family={Russell-Rose},
+         familyi={R\bibinithyphendelim R\bibinitperiod},
+         given={Tony},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=SM}{%
+         family={Stevenson},
+         familyi={S\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Whitehead},
+         familyi={W\bibinitperiod},
+         given={Miles},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRTSMWM1}
+    \strng{fullhash}{RRTSMWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{RRSW02}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{title}{The {Reuters Corpus Volume 1} -- from Yesterday's News to
+  Tomorrow's Language Resources}
+    \field{month}{08}
+    \field{year}{2002}
+  \endentry
+
+  \entry{Systems}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SJ}{%
+         family={Samuelsen},
+         familyi={S\bibinitperiod},
+         given={Jeanette},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Weiqin},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=WB}{%
+         family={Wasson},
+         familyi={W\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJCWWB1}
+    \strng{fullhash}{SJCWWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SCW19}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \verb{doi}
+    \verb 10.1186/s41039-019-0105-4
+    \endverb
+    \field{pages}{11}
+    \field{title}{Integrating multiple data sources for learning
+  analytics—review of literature}
+    \field{volume}{14}
+    \field{journaltitle}{Research and Practice in Technology Enhanced Learning}
+    \field{month}{08}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Sekar}{article}{}
+    \name{author}{2}{}{%
+      {{hash=SCC}{%
+         family={Sekar},
+         familyi={S\bibinitperiod},
+         given={C.\bibnamedelima Chandra},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DWE}{%
+         family={Deming},
+         familyi={D\bibinitperiod},
+         given={William\bibnamedelima Edwards},
+         giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SCCDWE1}
+    \strng{fullhash}{SCCDWE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SD49}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{13 \bibrangedash  15}
+    \field{title}{On a Method of Estimating Birth and Death Rates and the
+  Extent of Registration (Excerpt)}
+    \field{volume}{58}
+    \field{journaltitle}{The American Statistician}
+    \field{year}{1949}
+  \endentry
+
+  \entry{Silver}{online}{}
+    \name{author}{1}{}{%
+      {{hash=SBW}{%
+         family={Silverman},
+         familyi={S\bibinitperiod},
+         given={Bernard\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Home Office, London}%
+    }
+    \strng{namehash}{SBW1}
+    \strng{fullhash}{SBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sil14}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Modern Slavery: an application of multiple systems
+  estimation}
+    \verb{url}
+    \verb https://www.gov.uk/government/publications/modern-slavery-an-applicat
+    \verb ion-of-multiple-systems-estimation
+    \endverb
+    \field{year}{2014}
+  \endentry
+
+  \entry{Silverman}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SBW}{%
+         family={Silverman},
+         familyi={S\bibinitperiod},
+         given={Bernard\bibnamedelima W.},
+         giveni={B\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley}%
+    }
+    \strng{namehash}{SBW1}
+    \strng{fullhash}{SBW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Sil20}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    Multiple systems estimation is a key approach for quantifying hidden
+  populations such as the number of victims of modern slavery. The UK
+  Government published an estimate of 10,000 to 13,000 victims, constructed by
+  the present author, as part of the strategy leading to the Modern Slavery Act
+  2015. This estimate was obtained by a stepwise multiple systems method based
+  on six lists. Further investigation shows that a small proportion of the
+  possible models give rather different answers, and that other model fitting
+  approaches may choose one of these. Three data sets collected in the field of
+  modern slavery, together with a data set about the death toll in the Kosovo
+  conflict, are used to investigate the stability and robustness of various
+  multiple systems estimate methods. The crucial aspect is the way that
+  interactions between lists are modelled, because these can substantially
+  affect the results. Model selection and Bayesian approaches are considered in
+  detail, in particular to assess their stability and robustness when applied
+  to real modern slavery data. A new Markov Chain Monte Carlo Bayesian approach
+  is developed; overall, this gives robust and stable results at least for the
+  examples considered. The software and datasets are freely and publicly
+  available to facilitate wider implementation and further research.%
+    }
+    \verb{doi}
+    \verb 10.1111/rssa.12505
+    \endverb
+    \field{issn}{0964-1998}
+    \field{issue}{3}
+    \field{pages}{691\bibrangedash 736}
+    \field{title}{Multiple-systems analysis for the quantification of modern
+  slavery: classical and Bayesian approaches}
+    \verb{url}
+    \verb https://nottingham-repository.worktribe.com/output/2482329
+    \endverb
+    \field{volume}{183}
+    \field{journaltitle}{Journal of the Royal Statistical Society: Series A
+  (Statistics in Society)}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Kernel}{article}{}
+    \name{author}{1}{}{%
+      {{hash=TAB}{%
+         family={Tsybakov},
+         familyi={T\bibinitperiod},
+         given={Alexandre\bibnamedelima B},
+         giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TAB1}
+    \strng{fullhash}{TAB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Tsy04}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{number}{10}
+    \field{title}{Introduction to nonparametric estimation, 2009}
+    \field{volume}{9}
+    \field{journaltitle}{URL https://doi. org/10.1007/b13794. Revised and
+  extended from the}
+    \field{year}{2004}
+  \endentry
+
+  \entry{ExtremeBB}{article}{}
+    \name{author}{5}{}{%
+      {{hash=VVA}{%
+         family={Vu},
+         familyi={V\bibinitperiod},
+         given={Viet\bibnamedelima Anh},
+         giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=WL}{%
+         family={Wilson},
+         familyi={W\bibinitperiod},
+         given={Lydia},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CYT}{%
+         family={Chua},
+         familyi={C\bibinitperiod},
+         given={Yi\bibnamedelima Ting},
+         giveni={Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Shumailov},
+         familyi={S\bibinitperiod},
+         given={Ilia},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=AR}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Ross},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VVA+1}
+    \strng{fullhash}{VVAWLCYTSIAR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Vu+21}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{title}{ExtremeBB: Enabling Large-Scale Research into Extremism, the
+  Manosphere and Their Correlation by Online Forum Data}
+    \field{month}{11}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Fisher}{article}{}
+    \name{author}{2}{}{%
+      {{hash=WRA}{%
+         family={Wagner},
+         familyi={W\bibinitperiod},
+         given={Robert\bibnamedelima A.},
+         giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=FMJ}{%
+         family={Fischer},
+         familyi={F\bibinitperiod},
+         given={Michael\bibnamedelima J.},
+         giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \strng{namehash}{WRAFMJ1}
+    \strng{fullhash}{WRAFMJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{WF74}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    The string-to-string correction problem is to determine the distance
+  between two strings as measured by the minimum cost sequence of “edit
+  operations” needed to change the one string into the other. The edit
+  operations investigated allow changing one symbol of a string into another
+  single symbol, deleting one symbol from a string, or inserting a single
+  symbol into a string. An algorithm is presented which solves this problem in
+  time proportional to the product of the lengths of the two strings. Possible
+  applications are to the problems of automatic spelling correction and
+  determining the longest subsequence of characters common to two strings.%
+    }
+    \verb{doi}
+    \verb 10.1145/321796.321811
+    \endverb
+    \field{issn}{0004-5411}
+    \field{number}{1}
+    \field{pages}{168–173}
+    \field{title}{The String-to-String Correction Problem}
+    \verb{url}
+    \verb https://doi.org/10.1145/321796.321811
+    \endverb
+    \field{volume}{21}
+    \list{location}{1}{%
+      {New York, NY, USA}%
+    }
+    \field{journaltitle}{J. ACM}
+    \field{month}{01}
+    \field{year}{1974}
+  \endentry
+\enddatalist
+\endinput
